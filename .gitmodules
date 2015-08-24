@@ -1,0 +1,6 @@
+[submodule "botnet"]
+	path = botnet
+	url = https://github.com/eilandert/Botnet.pm.git
+[submodule "SaveHits"]
+	path = SaveHits
+	url = https://github.com/smfreegard/SaveHits
